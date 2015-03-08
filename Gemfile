@@ -41,6 +41,8 @@ gem 'carrierwave'
 #gem to add follower function
 gem "acts_as_follower"
 
+gem 'twitter-text', '~> 1.10.0'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
